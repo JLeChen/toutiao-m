@@ -1,6 +1,7 @@
 <template>
  <div>
   御剑乘风来,除魔天地间!
+  <i class="toutiao toutiao-shipin"></i>
  </div>
 </template>
 <script>
